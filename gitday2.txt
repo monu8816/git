@@ -1,0 +1,17 @@
+basic linux command
+
+ls
+pwd
+mkdir
+cd
+rmdir -- to delete empty directory
+cat file_name --- for open file content and combined multiple files
+cp -- for copy file content  ( cp file_name file_name )
+mv -- to move ( mv old_file new_file )
+rm --- use to deletes file permanently
+uname --  use to display system info
+locate --- to show the path of that selected file 
+touch -- for create file
+ps --- to show running processes
+
+
